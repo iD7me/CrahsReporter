@@ -9,32 +9,32 @@ DELETE_ALL_MESSAGE = "هل أنت متأكد أنك تريد حذف كافة س�
 DELETE_ALL_FOR_MESSAGE = "هل أنت متأكد أنك تريد حذف كافة سجلات الخروج المفاجئ لـ \"%@\"?";
 DELETE_ALL_FAILED = "فشل في حذف الملفات.";
 DELETE_FILE_FAILED = "لا يمكن حذف الملف المحدد.";
-EARLIER = "Earlier";
+EARLIER = "في وقت سابق";
 EDIT = "تعديل";
 ERROR = "خطأ";
 FORWARD_TO = "إرسال الى...";
 IGNORE = "تجاهل";
-INCLUDE_UNTITLED = "بدون إسم";
-LATEST = "آخر";
-MAIN_SUSPECT = "المسبب الرئيسي";
+INCLUDE_UNTITLED = "بدون عنوان";
+LATEST = "آخير";
+MAIN_SUSPECT = "السبب الرئيسي";
 NOTIFY_CRASHED = "\"%@\" خروج مفاجئ لـ.";
 NOTIFY_EXCESS_CPU = "\"%@\" تُجهد الـ CPU.";
 NOTIFY_EXCESS_MEMORY = "\"%@\" تُجهد الذاكرة.";
 NOTIFY_EXCESS_WAKEUPS = "\"%@\" is causing excessive wakeups.";
-NOTIFY_LARGEST_PROCESS = "أكبر معالجة هي  \"%@\".";
-NOTIFY_LOW_MEMORY = "Low memory, suspended apps will end.";
-NOTIFY_MAIN_SUSPECT = "\"%@\" is main suspect.";
-NOTIFY_NO_SUSPECTS = "There are no suspects.";
+NOTIFY_LARGEST_PROCESS = "أكبر مستخدم للـ CPU هو \"%@\".";
+NOTIFY_LOW_MEMORY = "الذاكرة منخفضة، سوف يتم إنهاء التطبيقات المسببة..";
+NOTIFY_MAIN_SUSPECT = "\"%@\" هو السبب الرئيسي.";
+NOTIFY_NO_SUSPECTS = "لا يوجد سبب.";
 NOTIFY_SANDBOX_VIOLATION = "\"%@\" violated sandbox.";
-OK = "OK";
-OTHER_SUSPECTS = "Other suspects";
-PACKAGE_FAILED_1 = "The package that owns this file is either no longer installed, or was not installed via Cydia or the App Store.";
-REPORTCRASH_DISABLED_TITLE = "Crash Logging is Disabled";
-REPORTCRASH_DISABLED_MESSAGE = "It appears that the ReportCrash daemon has been disabled on your device.\n\nWithout this daemon, crash logs will not be generated when a process crashes.\n\nPlease re-enable ReportCrash.\n\nIt only runs when a process crashes, so it will not shorten your battery life or slow down your device.";
-SAFE_MODE_TITLE = "Safe Mode";
-SAFE_MODE_MESSAGE = "It appears that the previous session of CrashReporter crashed.\n\nThis may have been due to a tweak.\n\nTweaks have been disabled for this session of CrashReporter.\n\nTweaks will be loaded again upon the next launch.";
+OK = "حسناً";
+OTHER_SUSPECTS = "مسببات أخرى";
+PACKAGE_FAILED_1 = "الحزمة التي تمتلك هذا الملف لم تعد مثبتة ، أو لم تثبت من خلال السيديا او الآب ستور.";
+REPORTCRASH_DISABLED_TITLE = "سجلات الخروج المفاجئ معطلة";
+REPORTCRASH_DISABLED_MESSAGE = "يبدو أنه تم تعطيل CrashReporter على جهازك \n\n بدون  تمكينها , لن يتم إنشاء سجلات للخروج المفاجئ اذا تم تعطليها  \n\n الرجاء إعادة تمكين CrashReporter  . \n\n تعمل فقط عند معالجة الخروج المفاجئ, لذالك هي لن تقصر عمر البطارية أو تبطئ جهازك.";
+SAFE_MODE_TITLE = "الوضع الآمن";
+SAFE_MODE_MESSAGE = "يبدو أن الدورة السابقة لـ CrashReporter تحطمت./n/n وهذا بسبب أداة معينة.n/nالادوات تم تعطليها لهذا الـ CrashReporter. n/n/ الأدوات سوف يعاد تحميلها مرة أخرى في الأطلاق الجديد.";
 SCRIPT = "Script";
 SYMBOLICATING_MODAL = "Symbolicating...";
-VIEW = "View";
-VIEW_CRASH_LOG = "View crash log";
-VIEW_SYSLOG = "View syslog";
+VIEW = "عرض";
+VIEW_CRASH_LOG = "عرض سجلات الخروج المفاجئ";
+VIEW_SYSLOG = "عرض syslog";
