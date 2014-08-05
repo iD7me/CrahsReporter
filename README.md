@@ -1,7 +1,7 @@
 BACK = "رجوع";
 CANCEL = "إلغاء";
 CONTINUE = "استمرار";
-COLLABORATE_MESSAGE = "برنامج CrashReporter هو مفتوح المصدر./n/n المساعدة في تحسين CrashReporter من خلال تثبيت أكواد للمصدر او إضافة ترجمة أو إضافة مميزات. n/n/ للمزيد من المعلومات حول CrashReporter هو متاح من خلال الضغط على الزر في الأسفل.";
+COLLABORATE_MESSAGE = "برنامج CrashReporter هو مفتوح المصدر./n/n المساعدة في تحسين CrashReporter من خلال تثبيت أكواد للمصدر او إضافة ترجمة أو إضافة مميزات. n/n/ للمزيد من المعلومات حول CrashReporter هو متاح من خلال الضغط على الأزرار في الأسفل.";
 COLLABORATE_TITLE = "مشاركة الفكرة";
 CONTRIBUTE_MONEY_MESSAGE = "وضعت الكثير من وقتي  لبرنامج CrashReporter ولم أجعله مدفوع /n/n قم بمساعدتي في تغذية وبقاء هذا التطبيق وإرسال الأفكار إلينا..";
 CONTRIBUTE_MONEY_FLATTR = "أدعمني بواسطة Flattr";
@@ -21,7 +21,7 @@ ERROR = "خطأ";
 FORWARD_TO = "إرسال الى...";
 IGNORE = "تجاهل";
 INCLUDE_UNTITLED = "بدون عنوان";
-LATEST = "آخير";
+LATEST = "آخر خروج مفاجئ";
 LOADED_BINARIES = "تحميل الطرف الثالث من الـ Binaries";
 MAIN_SUSPECT = "السبب الرئيسي";
 NOTIFY_CRASHED = "\"%@\" خروج مفاجئ لـ.";
